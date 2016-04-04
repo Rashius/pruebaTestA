@@ -192,5 +192,5 @@ if (process.env.NODE_ENV === 'production') {
 
 // Termina la declaracion de url handlers
 app.listen(port, function () {
-	console.log('Example app listening on port '+port+'!')
+	console.log('App lista corriendo en el puerto: ' + port + '!' + '↕↕↕↕↕↕↔↔↔↔')
 })
