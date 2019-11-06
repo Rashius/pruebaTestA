@@ -18,7 +18,7 @@
     "express-session-mongo": "^0.1.0",
     "flash": "^1.1.0",
     "inquirer": "^0.11.4",
-    "mongoose": "^4.3.7",
+    "mongoose": "^5.7.8",
     "swig": "^1.4.2",
     "uuid": "^2.0.1"
   }
